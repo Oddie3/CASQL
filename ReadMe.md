@@ -41,13 +41,7 @@ To run these projects, you’ll need:
 
 A SQL database management system like MySQL, PostgreSQL, or SQLite.
 Basic familiarity with SQL commands and querying.
-Instructions
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/sql-projects-codecademy.git  
-Navigate to the folder for the project you're interested in.
-Follow the instructions in the respective .sql or documentation file to execute queries.
+
 Contact Information
 Feel free to reach out if you have any questions or would like to collaborate!
 
